@@ -1,0 +1,30 @@
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\bin\Release\HotelRoomBookingService.exe.config
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\bin\Release\HotelRoomBookingService.exe
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\bin\Release\HotelRoomBookingService.pdb
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.AddRoomReservations.resources
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.AddSpecialGuests.resources
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.AddTableReservations.resources
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.HelpForm.resources
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.MainMenu.resources
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.Properties.Resources.resources
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.csproj.GenerateResource.cache
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.exe
+C:\Users\Marko29\source\repos\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.pdb
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\bin\Release\HotelRoomBookingService.exe.config
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\bin\Release\HotelRoomBookingService.exe
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\bin\Release\HotelRoomBookingService.pdb
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.csproj.AssemblyReference.cache
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.csproj.SuggestedBindingRedirects.cache
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.AddRoomReservations.resources
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.AddSpecialGuests.resources
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.AddTableReservations.resources
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.HelpForm.resources
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.MainMenu.resources
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.Properties.Resources.resources
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.csproj.GenerateResource.cache
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.csproj.CoreCompileInputs.cache
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.exe
+F:\Svi Projekti iz visual studio\HotelRoomBookingService\HotelRoomBookingService\obj\Release\HotelRoomBookingService.pdb
